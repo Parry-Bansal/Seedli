@@ -1,0 +1,28 @@
+{
+  "name": "seedli",
+  "version": "1.0.0",
+  "description": "Seed Learning\r hello parry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www",
+    "dev": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parry-Bansal/Seedli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parry-Bansal/Seedli/issues"
+  },
+  "homepage": "https://github.com/Parry-Bansal/Seedli#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "firebase": "^5.3.1",
+    "firebase-admin": "^5.13.1",
+    "pg": "^7.4.3"
+  }
+}
