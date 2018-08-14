@@ -23,6 +23,8 @@
     "express": "^4.16.3",
     "firebase": "^5.3.1",
     "firebase-admin": "^5.13.1",
-    "pg": "^7.4.3"
+    "firebase-functions": "^2.0.2",
+    "pg": "^7.4.3",
+    "request": "^2.87.0"
   }
 }
